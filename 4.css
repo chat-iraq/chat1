@@ -182,42 +182,14 @@ ul.nav.nav-tabs.fl li .fa-user-plus::before {
     }
 }
 
-.ae.label.label-primary.fa.fa-gear {
-    padding: 7px 5px 5px 13px;
-    border-radius: 0px;
-    margin-left: -3px !important;
-}
 
-.ae.fa.label.fa-commenting-o.label-primary {
-    padding: 7px 5px 5px 13px;
-    border-radius: 0px;
-    margin-left: -4px !important;
-}
-
-.ae.fa.label.label-primary.fa-users {
-    padding: 7px 5px 5px 13px;
-    border-radius: 0px;
-    margin-left: -3px !important;
-}
 
 .fa-commenting-o::before {
     content: "";
 }
 
-.ae.fa.chats.label.fa-comment.label-primary {
-    padding: 7px 13px 5px;
-    border-radius: 0px;
-    margin-left: -7px !important;
-}
 
-.ae.fa.label.fa-commenting-o.label-warning {
-}
 
-.ae.fa.chats.label.fa-comment.label-warning {
-    padding: 7px 13px 5px;
-    border-radius: 0px;
-    margin-left: -7px !important;
-}
 
 .bgg.border.corner {
     border-bottom-right-radius: 0px !important;
@@ -304,9 +276,7 @@ button.fa.fa-send.sndpm.fl.btn.btn-primary {
     border-color: rgb(82, 144, 172) rgb(55, 107, 135) rgb(55, 107, 135) rgb(82, 144, 172);
 }
 
-.fr.rating-box {
-    display: none;
-}
+
 
 .btn.hand.borderg.corner {
     width: 32px;
@@ -1670,16 +1640,3 @@ div#d2 > .fl.borderg.corner.uzr > .uzr.fl > .fl.dots {
     display: flex !important;
 }
 
-.fa-send::before {
-    display: none;
-}
-
-img.lkbjlhlg {
-    float: left !important;
-    margin-top: -4px !important;
-    height: 33px !important;
-    position: absolute !important;
-    border-radius: 100% !important;
-    width: 34px !important;
-    margin-left: -41px !important;
-}
